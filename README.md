@@ -30,6 +30,13 @@ Usage: randomrenamer [options]
 ```
 
 
+Download
+--------
+Fat jar is available [here](http://adf.ly/2536344/rr-02).
+Running it is easy: `java -jar <jar file>`, e.g. `java -jar randomrenamer_0.2.jar`.
+As you can see this application requires the [Java platform](http://java.com) installed.
+
+
 Donation
 --------
 If you use this project, please consider a donation of any amount (author is a not-wealthy student).
